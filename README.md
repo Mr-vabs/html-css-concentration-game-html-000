@@ -1,4 +1,4 @@
-# Concentration Card Game
+# Concentration Card Game WITH MORE FUN
 
 This challenge asks that you work in teams to create a memory card game where in the browser you can hover over each card to flip it and reveal an image. You must use the sprite imagecards.png that is provided for you in the images folder and write the proper CSS to get the cards to behave as rollover images.
 
